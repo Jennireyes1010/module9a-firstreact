@@ -13,3 +13,4 @@ This is a React app created using Vite that renders a UserProfile component. The
 One error I had was when I wanted to change the name on the user profile the name and background color were both white, I was having trouble trying to find the name. I fixed this by changing its color in the CSS file and was able to locate it. Another issue I had was when I commited my project to github the localhost was no longer loading, I fixed this by running it in VSC. 
 
 ## Screenshot
+![Screenshot](./screenshot.png)
